@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trynew19
+- 👋 Hi, I’m Krishna Chauhan
 - 👀 I’m interested in Web Technology
 - 🌱 I’m currently learning Mobiles Applications
 - 💞️ I’m looking to collaborate on Web Application 
